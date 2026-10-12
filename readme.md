@@ -27,6 +27,8 @@ Al ejecutar los microservicios por primera vez, Entity Framework Core se encarga
 2. Generar toda la estructura de tablas.
 3. Poblar las tablas con datos de prueba iniciales (Seed Data).
 
+Nota de Configuración: Antes de levantar los proyectos, por favor verifica los archivos appsettings.json en ambas APIs. Para que coincidan con las credenciales de la instancia de SQL Server.
+
 ---
 
 ## 🚀 Instrucciones para Levantar el Proyecto
